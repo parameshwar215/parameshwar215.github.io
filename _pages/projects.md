@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,16 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-I completed my graduation from Jawaharlal Nehru Technological University and later
-earned my Post-Graduation in Big Data Analytics and Optimization from International
-School of Engineering (INSOFE). This programme provided me with advanced abilities
-in data analytics and machine learning, preparing me for real-world difficulties in the
-rapidly changing sector of big data. My path at INSOFE was transformative, mirroring
-my commitment to excellence in the field of data science. The programme provided me
-with a thorough understanding of cutting-edge technology and processes, preparing me
-to face real-world difficulties in the dynamic field of big data analytics.
 
 **Projects And Achievements**
 Throughout my career, I have successfully contributed to numerous projects deliveringinnovative solutions that have had a significant impact on business outcomes. My
