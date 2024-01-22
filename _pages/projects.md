@@ -14,12 +14,14 @@ Throughout my career, I have successfully contributed to numerous projects deliv
 
 
 ❖**Advanced Pipeline Leak Detection System:**
+
 Associated with LTI - Larsen & Toubro InfotechDeveloped a powerful pipeline leak detection system with a multi-sensor datafusion approach. The system uses a complicated logic flow algorithm to analyze
 readings from numerous embedded sensors and detect anomalies that indicateleaks. The next phase will involve installing predictive machine learning models
 on Azure cloud, data warehousing in Snowflake, improving early leak detectioncapabilities, and overall pipeline safety.
 
 
 ❖**ESG Manufacturing - Performance Analysis and Improvement Tool:**
+
 Associated with Soothsayer Analytics
 The ESG Performance Analysis and Improvement Tool is a sophisticated
 AI-powered solution for complete environmental, social, and governance (ESG)
