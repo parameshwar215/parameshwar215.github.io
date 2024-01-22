@@ -33,6 +33,7 @@ league, and generates thorough reports that emphasize critical facts,
 performance gaps, and ideas for improvement.
 
 ❖ **FoxDox for Foxen:**
+
 Associated with Soothsayer Analytics
 Foxen is having difficulty obtaining essential data from various insurance
 documents such as COIs. To address this, we created an intelligent AI-driven
@@ -43,6 +44,7 @@ data against a database using a Data Validator, and finally accepts or rejects t
 documents before storing the results in the database.
 
 ❖ **Opportunities Forecast for Belrono:**
+
 Associated with Soothsayer Analytics
 Belron, a global leader in car glass repair, replacement, and recalibration, is facing
 operational issues due to unexpected demand and changing business cycles. To
@@ -54,6 +56,7 @@ algorithms are used to group districts that share similar historical patterns an
 variables.
 
 ❖**Plant Residue Prediction for Efficient Pre-Sales Operations:**
+
 Associated with LTI - Larsen & Toubro Infotech
 Created a sophisticated machine learning (ML) system that forecasts plant
 residue by combining IoT data from OSIPI meters and SCADA with a predictive
@@ -64,6 +67,7 @@ data integration to better forecast accuracy and NLP-driven analysis of team
 conversations to reveal operational insights that are concealed.
 
 ❖ **Pump Failure Detection and Proactive Diagnosis System with Cloud-Based Analytics:**
+
 Associated with LTI - Larsen & Toubro Infotech
 Using Azure services, we implemented a cloud-based predictive maintenance
 system for centrifugal pumps. The system uses machine learning to detect
@@ -73,6 +77,7 @@ maintenance intervals. The model's scalability and versatility are ensured by it
 modular architecture, which allows for easy expansion to more pump stations.
 
 ❖ **Strategic Backorder Prediction Model:**
+
 Developed a thorough backorder prediction model combining real-time analytics
 with historical data. Based on different operational factors, the model accurately
 anticipates backorders by using SMOTE to balance the extremely skewed
@@ -80,6 +85,7 @@ dataset. Supported by a strong data processing pipeline, this strategic tool hel
 with customer happiness and inventory management.
 
 ❖ **Tailored Customer Engagement with Advanced CRM Analytics:**
+
 We have developed a cutting-edge platform that combines SAP CRM data with
 Big Data technology to transform customer service. This system uses Spark
 MLlib to segment clients, provides machine learning-based predictive predictions,
