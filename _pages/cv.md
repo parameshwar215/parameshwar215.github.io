@@ -44,25 +44,22 @@ Skills
 * Big Data Solutions: Expertise in designing and implementing scalable Big Datasolutions.
 * Workflow Automation: Adept at building and automating sophisticated, robust,and scalable workflow pipelines.
 
+Licenses & certifications
+=========================
+* Python
+* HackerRank
+* Skills: Machine Learning
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Industry Knowledge
+==================
+* Machine Learning
+* Environmental, Social, and Governance (ESG)
+* Data Science
+* Artificial Intelligence
+* Demand Forecasting
+* Time Series Analysis
+* Large Language Models
+* Data Engineering
   
 Service and leadership
 ======
