@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Projects and Achievements"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 
 
-**Projects And Achievements**
-Throughout my career, I have successfully contributed to numerous projects deliveringinnovative solutions that have had a significant impact on business outcomes. My
-commitment to excellence and my ability to adapt to emerging technologies make me avaluable asset in any data-driven project.
+Throughout my career, I have successfully contributed to numerous projects deliveringinnovative solutions that have had a significant impact on business outcomes. My commitment to excellence and my ability to adapt to emerging technologies make me avaluable asset in any data-driven project.
 
 
-**Advanced Pipeline Leak Detection System**
+**Advanced Pipeline Leak Detection System: **
+
 Associated with LTI - Larsen & Toubro InfotechDeveloped a powerful pipeline leak detection system with a multi-sensor datafusion approach. The system uses a complicated logic flow algorithm to analyze
 readings from numerous embedded sensors and detect anomalies that indicateleaks. The next phase will involve installing predictive machine learning models
 on Azure cloud, data warehousing in Snowflake, improving early leak detectioncapabilities, and overall pipeline safety.
 
 
-❖ **ESG Manufacturing - Performance Analysis and Improvement Tool**
+❖ **ESG Manufacturing - Performance Analysis and Improvement Tool: **
+
 Associated with Soothsayer Analytics
 The ESG Performance Analysis and Improvement Tool is a sophisticated
 AI-powered solution for complete environmental, social, and governance (ESG)
