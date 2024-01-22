@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profileLogo.jpeg"
+  avatar           : "profile.png"
   bio              : "Senior Data Scientist at Soothsayer Analytics LLC"
   location         : "Location"
   employer         :
