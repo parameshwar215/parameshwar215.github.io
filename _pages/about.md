@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Transforming Data into Actionable Insights - A Journey in Data Science and AI""
+title: "Transforming Data into Actionable Insights - A Journey in Data Science and AI"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
